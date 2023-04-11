@@ -1,18 +1,27 @@
-## Getting Started
+# Sudoku em Java com JavaFX
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um projeto de jogo de Sudoku criado em Java com a biblioteca JavaFX para a interface gráfica. Com este jogo, os usuários podem jogar o popular jogo de Sudoku.
 
-## Folder Structure
+## Pré-requisitos
 
-The workspace contains two folders by default, where:
+-   Ambiente de desenvolvimento Java IDE, como Eclipse ou NetBeans.
+-   Java Development Kit (JDK) 20 ou superior instalado na máquina.
+-	JavaFX 20 ou superior configurado para o projeto.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Como executar o jogo
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1.  Clone o repositório para sua máquina local.
+2.  Importe o projeto para seu ambiente de desenvolvimento Java IDE.
+3.  Execute o arquivo `Main.java` localizado no diretório src/main.
+4.  O jogo será aberto em uma nova janela.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Contribuindo
 
-## Dependency Management
+Contribuições são bem-vindas! Se você quiser contribuir para este projeto, siga as etapas abaixo:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1.  Fork o repositório para sua própria conta do GitHub.
+2.  Clone o repositório bifurcado para sua máquina local.
+3.  Crie um novo branch para suas alterações.
+4.  Faça suas alterações e faça commit no seu branch.
+5.  Faça push das suas alterações para o seu repositório bifurcado.
+6.  Crie um pull request para mesclar suas alterações no repositório original.
